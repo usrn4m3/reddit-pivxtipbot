@@ -1,0 +1,52 @@
+
+## sample of config file
+
+rpc_config = {
+    "rpc_port": "9679",
+    "rpc_host": "127.0.0.1",
+    "rpc_username": "Pxg6zvlYA5nb5cyk6hsdqeOHJAHoN1UqzvWwJjRhQnXhJAq3Dii8tH",
+    "rpc_password": "UCn1AcWSPCIVbdr510mgprMYY8QF9Gr35uRaaZ2FquRcIjjBO5ae9K",
+    "timeout": 60
+}
+
+# with ending /
+
+DATA_PATH = 'C:/home/smartcashtip/'
+
+bot_name = "sodogetiptest"
+backup_wallet_path = "C:/backup"
+
+user_file = DATA_PATH + 'user_files.json'
+unregistered_tip_user = DATA_PATH + 'unregistered_tip_user.json'
+
+logs_path = DATA_PATH + 'logs/'
+history_path = DATA_PATH + 'history/'
+
+
+spam_limit = 1000
+rate_fee = 1
+
+url_get_value = {
+    "coincap": 'https://coincap.io/page/SMART',
+    "cryptocompare": 'https://min-api.cryptocompare.com/data/price?fsym=SMART&tsyms=USD',
+    "cryptonator": 'https://api.cryptonator.com/api/full/doge-usd',
+    "blockcypher": 'https://api.blockcypher.com/v1/doge/main/txs/'
+}
+
+tip_keyword = {
+    "dogecar" : 98
+}
+
+# vanity-gen request
+vanity_enabled = False
+vanitygen = DATA_PATH + 'vanitygen.json'
+vanitygen_address = "DGo1dHhU2pRAyU58LgACYU3i3fpaZakG5u"
+vanitygen_price = {
+ "3":"10",
+ "4":"50"
+}
+
+
+# shop
+shop_enabled = False
+shop_fee = float(1/100)

@@ -1,0 +1,66 @@
+2017-09-23 06:48:12,327 :: (MainThread ) :: (INFO      ) :: root :: main.py:14 :: Bot Started !!
+2017-09-23 06:54:21,690 :: (MainThread ) :: (INFO      ) :: root :: main.py:14 :: Bot Started !!
+2017-09-23 06:54:26,039 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:127 :: -2-> getinfo []
+2017-09-23 06:54:26,042 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:192 :: <-2- {"connections": 8, "errors": "", "blocks": 829690, "paytxfee": 0.0, "obfuscation_balance": 0.0, "keypoololdest": 1506149521, "walletversion": 61000, "difficulty": 183359.00436345, "testnet": false, "version": 2030000, "staking status": "Staking Not Active", "proxy": "", "protocolversion": 70810, "timeoffset": 0, "balance": 0.0, "unlocked_until": 1506149725, "relayfee": 0.0001, "keypoolsize": 10001}
+2017-09-23 06:54:26,043 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:127 :: -3-> walletlock []
+2017-09-23 06:54:26,045 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:192 :: <-3- null
+2017-09-23 06:54:26,056 :: (MainThread ) :: (ERROR     ) :: root :: main.py:63 :: Resuming in 30sec...
+2017-09-23 06:54:39,446 :: (MainThread ) :: (INFO      ) :: root :: main.py:14 :: Bot Started !!
+2017-09-23 06:54:42,026 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:127 :: -2-> getinfo []
+2017-09-23 06:54:42,028 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:192 :: <-2- {"connections": 13, "errors": "", "blocks": 829690, "paytxfee": 0.0, "obfuscation_balance": 0.0, "keypoololdest": 1506149521, "walletversion": 61000, "difficulty": 183359.00436345, "testnet": false, "version": 2030000, "staking status": "Staking Not Active", "proxy": "", "protocolversion": 70810, "timeoffset": 0, "balance": 0.0, "unlocked_until": 1506149741, "relayfee": 0.0001, "keypoolsize": 10001}
+2017-09-23 06:54:42,028 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:127 :: -3-> walletlock []
+2017-09-23 06:54:42,029 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:192 :: <-3- null
+2017-09-23 06:54:42,033 :: (MainThread ) :: (ERROR     ) :: root :: main.py:63 :: Resuming in 30sec...
+2017-09-23 07:10:56,555 :: (MainThread ) :: (INFO      ) :: root :: main.py:14 :: Bot Started !!
+2017-09-23 07:11:07,508 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:127 :: -2-> getinfo []
+2017-09-23 07:11:07,510 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:192 :: <-2- {"connections": 16, "errors": "", "blocks": 829711, "paytxfee": 0.0, "obfuscation_balance": 0.0, "keypoololdest": 1506149521, "walletversion": 61000, "difficulty": 204202.87526424, "testnet": false, "version": 2030000, "staking status": "Staking Not Active", "proxy": "", "protocolversion": 70810, "timeoffset": 0, "balance": 0.0, "unlocked_until": 1506150726, "relayfee": 0.0001, "keypoolsize": 10001}
+2017-09-23 07:11:07,510 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:127 :: -3-> walletlock []
+2017-09-23 07:11:07,511 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:192 :: <-3- null
+2017-09-23 07:11:07,515 :: (MainThread ) :: (ERROR     ) :: root :: main.py:63 :: Resuming in 30sec...
+2017-09-23 07:17:57,101 :: (MainThread ) :: (INFO      ) :: root :: main.py:14 :: Bot Started !!
+2017-09-23 07:18:00,513 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:127 :: -2-> getinfo []
+2017-09-23 07:18:00,515 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:192 :: <-2- {"connections": 16, "errors": "", "blocks": 829717, "paytxfee": 0.0, "obfuscation_balance": 0.0, "keypoololdest": 1506149521, "walletversion": 61000, "difficulty": 185903.06290215, "testnet": false, "version": 2030000, "staking status": "Staking Not Active", "proxy": "", "protocolversion": 70810, "timeoffset": 0, "balance": 0.0, "unlocked_until": 1506151139, "relayfee": 0.0001, "keypoolsize": 10001}
+2017-09-23 07:18:00,515 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:127 :: -3-> walletlock []
+2017-09-23 07:18:00,516 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:192 :: <-3- null
+2017-09-23 07:18:00,735 :: (app        ) :: (INFO      ) :: root :: /root/pivxtipbot/pivxtipbot.py:24 :: Main Bot loop !
+2017-09-23 07:18:00,738 :: (pending_tip) :: (INFO      ) :: root :: /root/pivxtipbot/pivxtipbot.py:99 :: Make clean of unregistered tips
+2017-09-23 07:18:00,739 :: (anti_spam  ) :: (INFO      ) :: root :: /root/pivxtipbot/pivxtipbot.py:108 :: Make clean of tx
+2017-09-23 07:18:00,740 :: (pending_tip) :: (INFO      ) :: root :: /root/pivxtipbot/bot_command.py:62 :: no pending tipping
+2017-09-23 07:18:00,747 :: (vanitygen  ) :: (INFO      ) :: root :: /root/pivxtipbot/pivxtipbot.py:158 :: Check if we need to generate address
+2017-09-23 07:19:13,024 :: (MainThread ) :: (INFO      ) :: root :: main.py:14 :: Bot Started !!
+2017-09-23 07:19:15,395 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:127 :: -2-> getinfo []
+2017-09-23 07:19:15,397 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:192 :: <-2- {"connections": 16, "errors": "", "blocks": 829718, "paytxfee": 0.0, "obfuscation_balance": 0.0, "keypoololdest": 1506149521, "walletversion": 61000, "difficulty": 183075.09836649, "testnet": false, "version": 2030000, "staking status": "Staking Not Active", "proxy": "", "protocolversion": 70810, "timeoffset": 0, "balance": 0.0, "unlocked_until": 1506151214, "relayfee": 0.0001, "keypoolsize": 10001}
+2017-09-23 07:19:15,397 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:127 :: -3-> walletlock []
+2017-09-23 07:19:15,398 :: (MainThread ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:192 :: <-3- null
+2017-09-23 07:19:15,402 :: (app        ) :: (INFO      ) :: root :: /root/pivxtipbot/pivxtipbot.py:24 :: Main Bot loop !
+2017-09-23 07:19:15,406 :: (pending_tip) :: (INFO      ) :: root :: /root/pivxtipbot/pivxtipbot.py:99 :: Make clean of unregistered tips
+2017-09-23 07:19:15,407 :: (pending_tip) :: (INFO      ) :: root :: /root/pivxtipbot/bot_command.py:62 :: no pending tipping
+2017-09-23 07:19:15,408 :: (anti_spam  ) :: (INFO      ) :: root :: /root/pivxtipbot/pivxtipbot.py:108 :: Make clean of tx
+2017-09-23 07:19:15,408 :: (vanitygen  ) :: (INFO      ) :: root :: /root/pivxtipbot/pivxtipbot.py:158 :: Check if we need to generate address
+2017-09-23 07:21:40,707 :: (app        ) :: (INFO      ) :: root :: /root/pivxtipbot/pivxtipbot.py:38 :: 9i320n - reddit sub : New feature alert: Get messages sent directly to your inbox!
+2017-09-23 07:21:41,643 :: (app        ) :: (INFO      ) :: root :: /root/pivxtipbot/pivxtipbot.py:87 :: Currently not supported
+2017-09-23 07:21:41,643 :: (app        ) :: (INFO      ) :: root :: /root/pivxtipbot/pivxtipbot.py:38 :: 9i320m - MrMeTech sub : +balance
+2017-09-23 07:21:41,644 :: (app        ) :: (INFO      ) :: root :: /root/pivxtipbot/commands/info.py:36 :: user MrMeTech not registered (command : info) 
+2017-09-23 07:22:03,067 :: (app        ) :: (INFO      ) :: root :: /root/pivxtipbot/pivxtipbot.py:38 :: 9i3237 - MrMeTech sub : +register
+2017-09-23 07:22:03,068 :: (app        ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:127 :: -4-> getnewaddress ["reddit-MrMeTech"]
+2017-09-23 07:22:03,073 :: (app        ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:192 :: <-4- "DPoLKanZrkDNXcM6rbp5w3kv6aEu6eUNgv"
+2017-09-23 07:22:03,077 :: (app        ) :: (INFO      ) :: root :: /root/pivxtipbot/models/history.py:32 :: Save for history user=MrMeTech, sender=, receiver=, amount=, action=register, finish=False
+2017-09-23 07:22:03,077 :: (app        ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:127 :: -5-> backupwallet ["C:/backupbackup_2017-09-23_07-22-03.dat"]
+2017-09-23 07:22:03,100 :: (app        ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:192 :: <-5- null
+2017-09-23 07:22:38,967 :: (app        ) :: (INFO      ) :: root :: /root/pivxtipbot/pivxtipbot.py:38 :: 9i3275 - MrMeTech sub : +balance
+2017-09-23 07:22:38,969 :: (app        ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:127 :: -6-> listunspent [0, 0, ["DPoLKanZrkDNXcM6rbp5w3kv6aEu6eUNgv"]]
+2017-09-23 07:22:38,971 :: (app        ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:192 :: <-6- []
+2017-09-23 07:22:38,972 :: (app        ) :: (DEBUG     ) :: root :: /root/pivxtipbot/models/user.py:41 :: pending_tips 0
+2017-09-23 07:22:38,972 :: (app        ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:127 :: -7-> listunspent [1, 99999999999, ["DPoLKanZrkDNXcM6rbp5w3kv6aEu6eUNgv"]]
+2017-09-23 07:22:38,974 :: (app        ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:192 :: <-7- []
+2017-09-23 07:22:38,974 :: (app        ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:127 :: -8-> listunspent [0, 0, ["DPoLKanZrkDNXcM6rbp5w3kv6aEu6eUNgv"]]
+2017-09-23 07:22:39,026 :: (app        ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:192 :: <-8- []
+2017-09-23 07:22:39,027 :: (app        ) :: (INFO      ) :: root :: /root/pivxtipbot/commands/info.py:18 :: user MrMeTech spendable_balance = 0.0
+2017-09-23 07:22:40,134 :: (app        ) :: (INFO      ) :: root :: /root/pivxtipbot/models/history.py:32 :: Save for history user=MrMeTech, sender=, receiver=, amount=0.0, action=info, finish=False
+2017-09-23 07:23:15,506 :: (anti_spam  ) :: (INFO      ) :: root :: /root/pivxtipbot/pivxtipbot.py:108 :: Make clean of tx
+2017-09-23 07:23:16,509 :: (anti_spam  ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:127 :: -9-> listunspent [1, 99999999999, ["DPoLKanZrkDNXcM6rbp5w3kv6aEu6eUNgv"]]
+2017-09-23 07:23:16,511 :: (anti_spam  ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:192 :: <-9- []
+2017-09-23 07:24:15,504 :: (vanitygen  ) :: (INFO      ) :: root :: /root/pivxtipbot/pivxtipbot.py:158 :: Check if we need to generate address
+2017-09-23 07:27:16,593 :: (anti_spam  ) :: (INFO      ) :: root :: /root/pivxtipbot/pivxtipbot.py:108 :: Make clean of tx
+2017-09-23 07:27:17,596 :: (anti_spam  ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:127 :: -10-> listunspent [1, 99999999999, ["DPoLKanZrkDNXcM6rbp5w3kv6aEu6eUNgv"]]
+2017-09-23 07:27:17,598 :: (anti_spam  ) :: (DEBUG     ) :: BitcoinRPC :: /usr/local/lib/python2.7/dist-packages/bitcoinrpc/authproxy.py:192 :: <-10- []
