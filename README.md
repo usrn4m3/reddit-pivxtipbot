@@ -1,4 +1,4 @@
-# smartcashtip Bot 
+# PIVXtip Bot 
 Tip a user: `+/u/pivxtipbot 10 PIVX verify`
 
 ## Commands 
