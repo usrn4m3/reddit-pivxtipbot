@@ -17,5 +17,5 @@ To submit the following commands, send them in a PM to a pivxtipbot instance, th
 [subject '+history' and body '+histochainz.cryptoid.infory'](https://www.reddit.com/message/compose?to=pivxtipbotsubject=%2Bhistory&message=%2Bhistory):
     => get your history
   
-[subject '+withdraw' and body '+withdraw 100 smart to My_Address'](https://www.reddit.com/message/compose?to=pivxtipbot&subject=%2Bwithdraw&message=%2Bwithdraw%20100%20SMART%20to%20My_Address):
+[subject '+withdraw' and body '+withdraw 100 pivx to My_Address'](https://www.reddit.com/message/compose?to=pivxtipbot&subject=%2Bwithdraw&message=%2Bwithdraw%20100%20SMART%20to%20My_Address):
     => send 100 PIVX to My_Address
